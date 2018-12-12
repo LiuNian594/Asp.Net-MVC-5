@@ -1,0 +1,6 @@
+D:\Asp.Net-MVC-5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Asp.Net-MVC-5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Asp.Net-MVC-5\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Asp.Net-MVC-5\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Asp.Net-MVC-5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Asp.Net-MVC-5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

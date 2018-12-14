@@ -55,8 +55,8 @@ namespace WebApplication1.Controllers
                 greeting = ("下午好");
             }
             //ViewData["greeting"] = greeting;
-            vmEmp.Greeting = greeting;
-            vmEmp.UserName = "超级管理员";
+            //vmEmp.Greeting = greeting;
+            //vmEmp.UserName = "超级管理员";
 
             //viewdata["empkey"] = emp;
             //ViewBag.Empkey = emp;
